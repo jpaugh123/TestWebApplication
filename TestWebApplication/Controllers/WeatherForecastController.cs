@@ -1,5 +1,11 @@
 using Microsoft.AspNetCore.Mvc;
 
+
+// https://learn.microsoft.com/en-us/visualstudio/ide/connect-team-project?view=vs-2019
+// https://stackoverflow.com/questions/51851449/in-visual-studio-code-for-windows-the-git-branch-doesnt-show-and-cant-create
+// https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+// https://learn.microsoft.com/en-us/visualstudio/version-control/git-create-branch?view=vs-2022
+
 namespace TestWebApplication.Controllers
 {
     [ApiController]
